@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Agento:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Agento.war">
+      <element id="artifact" artifact-name="Agento:war exploded" />
+    </root>
+  </artifact>
+</component>
