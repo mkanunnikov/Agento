@@ -144,7 +144,7 @@
       <file leaf-file-name="DealObject.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="25" selection-start="118" selection-end="118" vertical-scroll-proportion="0.14026402" vertical-offset="0" max-vertical-offset="606">
+            <state line="5" column="25" selection-start="118" selection-end="118" vertical-scroll-proportion="0.43814433" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -899,7 +899,7 @@
       <workItem from="1387517558889" duration="3987000" />
       <workItem from="1387521706700" duration="12620000" />
       <workItem from="1388296823989" duration="9111000" />
-      <workItem from="1388555558965" duration="9162000" />
+      <workItem from="1388555558965" duration="9234000" />
     </task>
     <task id="LOCAL-00001" summary="Model">
       <created>1388332496445</created>
@@ -913,18 +913,22 @@
       <created>1388565074298</created>
       <updated>1388565074298</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Docs&#10;">
+      <created>1388565126979</created>
+      <updated>1388565126979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34880000" />
+    <option name="totallyTimeSpent" value="34952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="-8" width="1293" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6309342" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1493,7 +1497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="25" selection-start="118" selection-end="118" vertical-scroll-proportion="0.14026402" vertical-offset="0" max-vertical-offset="606">
+        <state line="5" column="25" selection-start="118" selection-end="118" vertical-scroll-proportion="0.43814433" vertical-offset="0" max-vertical-offset="476">
           <folding />
         </state>
       </provider>
