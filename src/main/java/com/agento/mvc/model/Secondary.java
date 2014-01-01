@@ -1,8 +1,11 @@
 package com.agento.mvc.model;
 
-/**
- * Created by Max on 29.12.13.
+/** Описывает объект из вторичного фонда, содержит свойства наследуемые от класса Сущность Объекта, а также определяет
+ * свойства специфичные для объектов вторичного фонда.
  */
 public class Secondary extends ObjectGist{
 
+    /** Владелец жилья
+     */
+    private Person owner;
 }

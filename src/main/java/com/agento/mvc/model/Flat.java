@@ -1,12 +1,16 @@
 package com.agento.mvc.model;
 
-/**
- * Created by Max on 20.12.13.
+/** Класс Квартира наследует общие свойства от класса Жилье и описывает специфичные свойства для сущности Квартира
  */
 public class Flat extends Housing {
 
+    /** Этаж квартиры, нижний этаж если их несколько
+     */
     private Integer floor;
 
+    /** ?
+     */
+    private ApartmentHouse house;
 
     public Flat(Integer floor) {
         this.floor = floor;

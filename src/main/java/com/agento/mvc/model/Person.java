@@ -1,12 +1,19 @@
 package com.agento.mvc.model;
 
-/**
- * Created by Max on 20.12.13.
+/** Физическое лицо
  */
-public abstract class Person {
+public class Person {
 
+    /** Имя
+     */
     private String firstName;
+
+    /** Фамилия
+     */
     private String lastName;
+
+    /** Отчество
+     */
     private String middleName;
 
     public String getFirstName() {

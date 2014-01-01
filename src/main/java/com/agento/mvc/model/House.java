@@ -1,16 +1,20 @@
 package com.agento.mvc.model;
 
-/**
- * Created by Max on 20.12.13.
+/** Класс Коттедж наследует общие свойства от класса Жилье и описывает специфичные свойства для класса Коттедж
  */
 public class House extends Housing {
 
+    /** Площадь земельного участка
+     */
     private Double landArea;
 
     /** Высота мансарды, если нет - то 0
      */
     private Double mansard;
 
+    /** ?
+     */
+    private CottageVillage village;
 
     public House(Double landArea) {
         this.landArea = landArea;

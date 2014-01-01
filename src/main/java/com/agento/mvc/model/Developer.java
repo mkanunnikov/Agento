@@ -1,7 +1,10 @@
 package com.agento.mvc.model;
 
-/**
- * Created by Max on 29.12.13.
+/** Описывает организацию-застройщика
  */
 public class Developer {
+
+    /** Название организации
+     */
+    private String name;
 }

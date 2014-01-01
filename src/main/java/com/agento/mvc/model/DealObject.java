@@ -4,7 +4,12 @@ package com.agento.mvc.model;
  */
 public class DealObject {
 
+    /** Сущности Объекта
+     */
     private ObjectGist description;
+
+    /** Цена
+     */
     private Double price;
 
     public DealObject(ObjectGist description) {
