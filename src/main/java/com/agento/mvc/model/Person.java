@@ -4,7 +4,7 @@ package com.agento.mvc.model;
  */
 public class Person {
 
-    /** Имя
+    /** имя
      */
     private String firstName;
 

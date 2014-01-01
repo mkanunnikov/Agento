@@ -6,7 +6,7 @@ import java.util.Date;
  */
 public abstract class ObjectGist {
 
-    /** Информация о жилье
+    /** Описание жилья
      */
     private Housing housing;
 
