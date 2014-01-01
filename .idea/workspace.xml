@@ -899,7 +899,7 @@
       <workItem from="1387517558889" duration="3987000" />
       <workItem from="1387521706700" duration="12620000" />
       <workItem from="1388296823989" duration="9111000" />
-      <workItem from="1388555558965" duration="9085000" />
+      <workItem from="1388555558965" duration="9162000" />
     </task>
     <task id="LOCAL-00001" summary="Model">
       <created>1388332496445</created>
@@ -909,11 +909,15 @@
       <created>1388564673472</created>
       <updated>1388564673472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Docs&#10;">
+      <created>1388565074298</created>
+      <updated>1388565074298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34803000" />
+    <option name="totallyTimeSpent" value="34880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="-8" width="1293" height="784" extended-state="6" />
@@ -980,12 +984,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Model" />
     <MESSAGE value="Docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docs" />
+    <MESSAGE value="Docs&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docs&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
