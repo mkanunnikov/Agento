@@ -13,6 +13,4 @@ public abstract class ObjectGist {
     /** Дата постройки
      */
     private Date buildingDate;
-
-
 }
