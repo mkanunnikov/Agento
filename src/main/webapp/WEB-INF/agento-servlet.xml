@@ -1,0 +1,80 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:security="http://www.springframework.org/schema/security"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.2.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+    <context:component-scan base-package="com.agento.mvc"/>
+
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/pages/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
+
+    <bean class="com.agento.dao.TempDAO" id="tempDAO"/>
+    <bean class="com.agento.dao.MongoDAO" id="dao"/>
+
+    <bean id="mongo" class="org.springframework.data.mongodb.core.MongoFactoryBean">
+        <property name="host" value="localhost"/>
+    </bean>
+
+    <bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
+        <constructor-arg ref="mongo"/>
+        <constructor-arg name="databaseName" value="Agento"/>
+    </bean>
+
+    <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
+        <property name="basename" value="classpath:text"/>
+        <property name="defaultEncoding" value="UTF-8"/>
+    </bean>
+
+    <!--LocaleChangeInterceptor будет перехватывать любые изменения в локали.
+        Эти изменения будут сохранены в cookies для будущего запроса.-->
+    <!--<bean id="localeChangeInterceptor"-->
+          <!--class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor">-->
+        <!--<property name="paramName" value="lang" />-->
+    <!--</bean>-->
+
+    <!--CookieLocaleResolver класс будет использоваться для хранения локализации изменений в cookies.-->
+<!--
+    <bean id="localeResolver" class="org.springframework.web.servlet.i18n.CookieLocaleResolver">
+        <property name="defaultLocale" value="ru"/>
+    </bean>
+-->
+
+    <!--<bean id="handlerMapping" class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping">-->
+        <!--<property name="interceptors" ref="localeChangeInterceptor"/>-->
+    <!--</bean>-->
+
+<!--
+    <mvc:interceptors>
+        <bean class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor">
+            <property name="paramName" value="lang" />
+        </bean>
+    </mvc:interceptors>
+-->
+
+    <security:http access-denied-page="/error403.jsp">
+        <security:intercept-url pattern="/index*" access="ROLE_AGENT,ROLE_ANONYMOUS"/>
+        <security:intercept-url pattern="/add*" access="ROLE_AGENT"/>
+        <security:intercept-url pattern="/delete/*" access="ROLE_ADMIN"/>
+        <security:form-login login-page="/login.jsp" default-target-url="/index" authentication-failure-url="/login.jsp?error=true"/>
+        <security:logout logout-url="/logout" logout-success-url="/index"/>
+        <security:anonymous username="guest" granted-authority="ROLE_ANONYMOUS"/>
+        <security:remember-me/>
+    </security:http>
+
+    <security:authentication-manager>
+        <security:authentication-provider>
+            <security:user-service>
+                <security:user name="agent1" password="1" authorities="ROLE_AGENT"/>
+                <security:user name="admin" password="1" authorities="ROLE_ADMIN"/>
+                <security:user name="user2" password="1" disabled="true" authorities="ROLE_USER"/>
+            </security:user-service>
+        </security:authentication-provider>
+    </security:authentication-manager>
+</beans>

@@ -15,4 +15,9 @@ public class Deal {
     /** Объект
      */
     private DealObject object;
+
+    /** Сумма сделки
+     */
+    private Double amount;
+
 }

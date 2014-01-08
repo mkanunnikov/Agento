@@ -24,6 +24,9 @@
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
           <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.1" />
           <element id="library" level="project" name="Maven: org.mongodb:mongo-java-driver:2.7.2" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:3.2.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:3.2.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:3.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
         </element>
       </element>

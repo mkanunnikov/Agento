@@ -12,6 +12,14 @@ public class DealObject {
      */
     private Double price;
 
+    public ObjectGist getDescription() {
+        return description;
+    }
+
+    public void setDescription(ObjectGist description) {
+        this.description = description;
+    }
+
     public DealObject(ObjectGist description) {
         this.description = description;
     }

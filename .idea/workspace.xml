@@ -5,62 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19dc6b8b-e139-4a13-94ff-a2d80e454ffc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/resources/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/resources/tab.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/resources/titlebar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/resources/titlebar_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Agent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/controllers/AgentoController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/ApartmentHouse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/CottageVillage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Customer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/dao/DAO.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Deal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/DealObject.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Developer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Flat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/House.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Housing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Level.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/dao/MongoDAO.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/ObjectGist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Person.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Primary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/Secondary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/dao/TempDAO.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index-files/index-9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/dao/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/controllers/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/dao/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/controllers/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/dao/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/controllers/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/com/agento/mvc/model/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Doc/JavaDoc/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/Object.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectProperty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/SubObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/addFlat.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addObject.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/agento-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/text_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/text_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Agento.iml" afterPath="$PROJECT_DIR$/Agento.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Agento_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Agento_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/agento/mvc/AppTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/agento/mvc/AppTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Deal.java" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Deal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Housing.java" afterPath="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Housing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Agento.iws" />
@@ -73,7 +44,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\work\projects\Agento" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
@@ -125,155 +96,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Customer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Customer.java">
+      <file leaf-file-name="Object.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="289">
+            <state line="13" column="0" selection-start="179" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectGroup.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="0.30756578" vertical-offset="0" max-vertical-offset="608">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubObject.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/SubObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Deal.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Deal.java">
+      <file leaf-file-name="ObjectType.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="408">
+            <state line="9" column="42" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DealObject.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java">
+      <file leaf-file-name="ObjectProperty.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectProperty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="27" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="544">
+            <state line="7" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/com.agento.mvc.model" pinned="false" current="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.agento.mvc.model">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.agento.mvc.model</OriginalElement>
-              <nodes>
-                <node x="949.75" y="80.0">com.agento.mvc.model.ApartmentHouse</node>
-                <node x="250.75" y="406.0">com.agento.mvc.model.Secondary</node>
-                <node x="11.75" y="258.0">com.agento.mvc.model.Agent</node>
-                <node x="514.5" y="268.0">com.agento.mvc.model.ObjectGist</node>
-                <node x="320.5" y="258.0">com.agento.mvc.model.House</node>
-                <node x="116.0" y="60.0">com.agento.mvc.model.Person</node>
-                <node x="501.0" y="396.0">com.agento.mvc.model.DealObject</node>
-                <node x="308.0" y="80.0">com.agento.mvc.model.CottageVillage</node>
-                <node x="908.25" y="268.0">com.agento.mvc.model.Flat</node>
-                <node x="701.0" y="396.0">com.agento.mvc.model.Primary</node>
-                <node x="106.18749999999994" y="406.0">com.agento.mvc.model.Customer</node>
-                <node x="443.0" y="0.0">com.agento.mvc.model.Housing</node>
-                <node x="69.68749999999994" y="514.0">com.agento.mvc.model.Deal</node>
-                <node x="0.0" y="60.0">com.agento.mvc.model.Level</node>
-                <node x="776.25" y="278.0">com.agento.mvc.model.Developer</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.agento.mvc.model.Customer" target="com.agento.mvc.model.Person">
-                  <point x="28.75" y="-24.0" />
-                  <point x="192.43749999999994" y="233.0" />
-                  <point x="202.0" y="233.0" />
-                  <point x="0.0" y="44.0" />
-                </edge>
-                <edge source="com.agento.mvc.model.Primary" target="com.agento.mvc.model.ObjectGist">
-                  <point x="-43.75" y="-34.0" />
-                  <point x="744.75" y="371.0" />
-                  <point x="642.0" y="371.0" />
-                  <point x="51.0" y="34.0" />
-                </edge>
-                <edge source="com.agento.mvc.model.House" target="com.agento.mvc.model.Housing">
-                  <point x="43.5" y="-44.0" />
-                  <point x="451.0" y="233.0" />
-                  <point x="492.3333333333333" y="233.0" />
-                  <point x="-98.66666666666669" y="104.0" />
-                </edge>
-                <edge source="com.agento.mvc.model.Secondary" target="com.agento.mvc.model.ObjectGist">
-                  <point x="30.25" y="-24.0" />
-                  <point x="341.5" y="371.0" />
-                  <point x="540.0" y="371.0" />
-                  <point x="-51.0" y="34.0" />
-                </edge>
-                <edge source="com.agento.mvc.model.Agent" target="com.agento.mvc.model.Person">
-                  <point x="36.25" y="-44.0" />
-                  <point x="120.5" y="233.0" />
-                  <point x="144.66666666666663" y="233.0" />
-                  <point x="-57.33333333333334" y="44.0" />
-                </edge>
-                <edge source="com.agento.mvc.model.Flat" target="com.agento.mvc.model.Housing">
-                  <point x="-34.0" y="-34.0" />
-                  <point x="942.25" y="233.0" />
-                  <point x="689.6666666666667" y="233.0" />
-                  <point x="98.66666666666674" y="104.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.851512373968836" x="272.0" y="243.0" />
-              <SelectedNodes>
-                <node>com.agento.mvc.model.ApartmentHouse</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectGist.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/ObjectGist.java">
+      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="374">
+            <state line="7" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class diagram.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doc/Class diagram.png">
-          <provider selected="true" editor-type-id="images">
+      <file leaf-file-name="text_en.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/text_en.properties">
+          <provider selected="true" editor-type-id="ResourceBundle">
             <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state line="7" column="36" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="32" selection-start="434" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="663">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Agent.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Agent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="595">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="11" selection-start="89" selection-end="89" vertical-scroll-proportion="0.16831683" vertical-offset="0" max-vertical-offset="612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApartmentHouse.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/ApartmentHouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="289">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CottageVillage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/CottageVillage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
+            <state line="2" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -301,29 +206,51 @@
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/AgentoController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/dao/MorthiaDAO.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/dao/DAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/dao/MongoDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Object.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Housing.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Developer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Secondary.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Level.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Agent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Primary.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/House.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/ApartmentHouse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/CottageVillage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Deal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Flat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/ObjectGist.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Deal.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/flat.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addFlat.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/addFlat.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Housing.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addObject.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/i18n/text_en.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/i18n/text.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/messageContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/addFlat.tag" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Agent.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/text_ru.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/security.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/text_en.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/agento-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/Property.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectProperty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectPropertyValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/Object.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/SubObject.java" />
       </list>
     </option>
   </component>
@@ -391,6 +318,9 @@
       <profile-state>
         <expanded-state>
           <State>
+            <id />
+          </State>
+          <State>
             <id>Internationalization issues</id>
           </State>
           <State>
@@ -420,6 +350,11 @@
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="invalid-module-dependency(module:Agento,Maven: org.springframework:spring-test-mvc:1.0.0.M2)" />
+    </ignored-problems>
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -433,34 +368,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Agento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Agento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Default">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Agento">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -489,8 +396,322 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tags" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resource Bundle 'text'" />
+              <option name="myItemType" value="com.intellij.lang.properties.projectView.ResourceBundleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Doc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Agento">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -506,7 +727,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.lastSelected" value="File.Encoding" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -533,10 +754,17 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="807" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\work\projects\Agento\src\main\webapp\WEB-INF\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\projects\Agento\src\main\resources" />
+      <recent name="C:\work\projects\Agento\src\main\webapp\WEB-INF\tags" />
     </key>
   </component>
   <component name="RunManager" selected="Jetty Server.Jetty 9.1.0.v20131115">
@@ -579,23 +807,17 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
       <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -626,17 +848,38 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JettyConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -655,21 +898,6 @@
       </server-settings>
       <predefined_log_file id="Jetty" enabled="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -879,7 +1107,12 @@
       <workItem from="1387521706700" duration="12620000" />
       <workItem from="1388296823989" duration="9111000" />
       <workItem from="1388555558965" duration="10096000" />
-      <workItem from="1388566185403" duration="49000" />
+      <workItem from="1388566185403" duration="2977000" />
+      <workItem from="1388728904237" duration="6209000" />
+      <workItem from="1388763489704" duration="8039000" />
+      <workItem from="1388813280835" duration="5444000" />
+      <workItem from="1389170897847" duration="2444000" />
+      <workItem from="1389196180957" duration="4044000" />
     </task>
     <task id="LOCAL-00001" summary="Model">
       <created>1388332496445</created>
@@ -921,15 +1154,19 @@
       <created>1388565712026</created>
       <updated>1388565712027</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JavaDoc">
+      <created>1388566277374</created>
+      <updated>1388566277374</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35863000" />
+    <option name="totallyTimeSpent" value="64971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="-8" width="1293" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6309342" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -938,7 +1175,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -950,37 +1187,39 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24777327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840237" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24777327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6309342" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48085758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32955465" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24777327" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771823" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1001,128 +1240,16 @@
     <MESSAGE value="Docs" />
     <MESSAGE value="Docs&#10;" />
     <MESSAGE value="Docs 2&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docs 2&#10;" />
+    <MESSAGE value="JavaDoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaDoc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Primary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Developer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Secondary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="37" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Housing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="52" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="799">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/MongoDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="67" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/DAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="44" selection-start="820" selection-end="820" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="28" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="21" selection-start="2690" selection-end="2690" vertical-scroll-proportion="0.0" vertical-offset="941" max-vertical-offset="2006">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="54" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="45" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/agento/mvc/AppTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="765">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="26" column="37" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
@@ -1134,22 +1261,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="15" column="20" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1905" selection-end="1905" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1581">
-          <folding />
-        </state>
+        <state line="59" column="0" selection-start="1905" selection-end="1905" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1581" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Flat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="33" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="493">
-          <folding />
+          <folding>
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#455#456#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#532#533#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,32 +1290,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="527">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="34" selection-end="34" vertical-scroll-proportion="0.056384742" vertical-offset="0" max-vertical-offset="603">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/agento/mvc/AppTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="6" column="7" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.3.3.RELEASE/spring-data-mongodb-1.3.3.RELEASE.jar!/org/springframework/data/mongodb/core/MongoTemplate.class">
@@ -1197,137 +1300,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/MongoDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="67" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="680">
-          <folding />
-        </state>
+        <state line="30" column="67" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="680" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/DAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="42" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="48" selection-start="888" selection-end="888" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="21" selection-start="2690" selection-end="2690" vertical-scroll-proportion="0.0" vertical-offset="941" max-vertical-offset="2006">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="52" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0" vertical-offset="149" max-vertical-offset="799">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="11" selection-start="979" selection-end="979" vertical-scroll-proportion="0.54226476" vertical-offset="0" max-vertical-offset="627">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Agent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="11" column="42" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/ApartmentHouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/CottageVillage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="8" column="24" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Deal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Developer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Flat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/House.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.11221122" vertical-offset="0" max-vertical-offset="606">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Housing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="158" selection-end="158" vertical-scroll-proportion="0.11221122" vertical-offset="0" max-vertical-offset="833">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.11221122" vertical-offset="0" max-vertical-offset="606" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Level.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="74" selection-end="74" vertical-scroll-proportion="0.11221122" vertical-offset="0" max-vertical-offset="606">
-          <folding />
-        </state>
+        <state line="4" column="12" selection-start="74" selection-end="74" vertical-scroll-proportion="0.11221122" vertical-offset="0" max-vertical-offset="606" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Primary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="246" selection-end="246" vertical-scroll-proportion="0.19636963" vertical-offset="0" max-vertical-offset="606">
-          <folding />
-        </state>
+        <state line="7" column="13" selection-start="246" selection-end="246" vertical-scroll-proportion="0.19636963" vertical-offset="0" max-vertical-offset="606" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Secondary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Doc/model.uml">
@@ -1364,71 +1382,207 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="11" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE.jar!/META-INF/spring-form.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41089" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/objects.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="89" selection-start="630" selection-end="630" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Flat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding>
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#455#456#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#532#533#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/dao/TempDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.0.RELEASE/spring-webmvc-3.2.0.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/annotation/DefaultAnnotationHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="92" selection-start="3860" selection-end="3942" vertical-scroll-proportion="0.0" vertical-offset="686" max-vertical-offset="4148" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Deal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addObject.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="-0.8076923" vertical-offset="30" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/addFlat.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/ObjectGist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Housing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/text_ru.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="50" selection-start="82" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/agento/mvc/AppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="938" selection-end="938" vertical-scroll-proportion="0.16831683" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="23" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="434" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="66" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="2278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/text_en.properties">
+      <provider selected="true" editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/controllers/AgentoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/agento-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="66" selection-start="2805" selection-end="2805" vertical-scroll-proportion="0.23529412" vertical-offset="795" max-vertical-offset="1445" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doc/Class diagram.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="uml://JAVA/com.agento.mvc.model">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement>com.agento.mvc.model</OriginalElement>
           <nodes>
-            <node x="949.75" y="80.0">com.agento.mvc.model.ApartmentHouse</node>
-            <node x="250.75" y="406.0">com.agento.mvc.model.Secondary</node>
-            <node x="11.75" y="258.0">com.agento.mvc.model.Agent</node>
-            <node x="514.5" y="268.0">com.agento.mvc.model.ObjectGist</node>
-            <node x="320.5" y="258.0">com.agento.mvc.model.House</node>
-            <node x="116.0" y="60.0">com.agento.mvc.model.Person</node>
-            <node x="501.0" y="396.0">com.agento.mvc.model.DealObject</node>
-            <node x="308.0" y="80.0">com.agento.mvc.model.CottageVillage</node>
-            <node x="908.25" y="268.0">com.agento.mvc.model.Flat</node>
-            <node x="701.0" y="396.0">com.agento.mvc.model.Primary</node>
-            <node x="106.18749999999994" y="406.0">com.agento.mvc.model.Customer</node>
-            <node x="443.0" y="0.0">com.agento.mvc.model.Housing</node>
-            <node x="69.68749999999994" y="514.0">com.agento.mvc.model.Deal</node>
-            <node x="0.0" y="60.0">com.agento.mvc.model.Level</node>
-            <node x="776.25" y="278.0">com.agento.mvc.model.Developer</node>
+            <node x="" y="">com.agento.mvc.model.ApartmentHouse</node>
+            <node x="" y="">com.agento.mvc.model.Secondary</node>
+            <node x="" y="">com.agento.mvc.model.Agent</node>
+            <node x="" y="">com.agento.mvc.model.ObjectGist</node>
+            <node x="" y="">com.agento.mvc.model.Person</node>
+            <node x="" y="">com.agento.mvc.model.House</node>
+            <node x="" y="">com.agento.mvc.model.DealObject</node>
+            <node x="" y="">com.agento.mvc.model.CottageVillage</node>
+            <node x="" y="">com.agento.mvc.model.Flat</node>
+            <node x="" y="">com.agento.mvc.model.Primary</node>
+            <node x="" y="">com.agento.mvc.model.Customer</node>
+            <node x="" y="">com.agento.mvc.model.Housing</node>
+            <node x="" y="">com.agento.mvc.model.Deal</node>
+            <node x="" y="">com.agento.mvc.model.Level</node>
+            <node x="" y="">com.agento.mvc.model.Developer</node>
           </nodes>
           <notes />
-          <edges>
-            <edge source="com.agento.mvc.model.Customer" target="com.agento.mvc.model.Person">
-              <point x="28.75" y="-24.0" />
-              <point x="192.43749999999994" y="233.0" />
-              <point x="202.0" y="233.0" />
-              <point x="0.0" y="44.0" />
-            </edge>
-            <edge source="com.agento.mvc.model.Primary" target="com.agento.mvc.model.ObjectGist">
-              <point x="-43.75" y="-34.0" />
-              <point x="744.75" y="371.0" />
-              <point x="642.0" y="371.0" />
-              <point x="51.0" y="34.0" />
-            </edge>
-            <edge source="com.agento.mvc.model.House" target="com.agento.mvc.model.Housing">
-              <point x="43.5" y="-44.0" />
-              <point x="451.0" y="233.0" />
-              <point x="492.3333333333333" y="233.0" />
-              <point x="-98.66666666666669" y="104.0" />
-            </edge>
-            <edge source="com.agento.mvc.model.Secondary" target="com.agento.mvc.model.ObjectGist">
-              <point x="30.25" y="-24.0" />
-              <point x="341.5" y="371.0" />
-              <point x="540.0" y="371.0" />
-              <point x="-51.0" y="34.0" />
-            </edge>
-            <edge source="com.agento.mvc.model.Agent" target="com.agento.mvc.model.Person">
-              <point x="36.25" y="-44.0" />
-              <point x="120.5" y="233.0" />
-              <point x="144.66666666666663" y="233.0" />
-              <point x="-57.33333333333334" y="44.0" />
-            </edge>
-            <edge source="com.agento.mvc.model.Flat" target="com.agento.mvc.model.Housing">
-              <point x="-34.0" y="-34.0" />
-              <point x="942.25" y="233.0" />
-              <point x="689.6666666666667" y="233.0" />
-              <point x="98.66666666666674" y="104.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.851512373968836" x="272.0" y="243.0" />
-          <SelectedNodes>
-            <node>com.agento.mvc.model.ApartmentHouse</node>
-          </SelectedNodes>
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="191.5" y="201.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.agento.mvc.model2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.agento.mvc.model2</OriginalElement>
+          <nodes>
+            <node x="" y="">com.agento.mvc.model2.ObjectProperty</node>
+            <node x="" y="">com.agento.mvc.model2.SubObject</node>
+            <node x="" y="">com.agento.mvc.model2.ObjectType</node>
+            <node x="" y="">com.agento.mvc.model2.ObjectGroup</node>
+            <node x="" y="">com.agento.mvc.model2.Object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="133.5" y="280.0" />
+          <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
           </Categories>
@@ -1437,35 +1591,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doc/Class diagram.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/DealObject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="27" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+        <state line="9" column="42" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/ObjectGist.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectProperty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="7" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="89" selection-end="89" vertical-scroll-proportion="0.16831683" vertical-offset="0" max-vertical-offset="612">
+        <state line="13" column="0" selection-start="179" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/SubObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/agento/mvc/model2/ObjectGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="0.30756578" vertical-offset="0" max-vertical-offset="608">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Agento:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|Agento</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
